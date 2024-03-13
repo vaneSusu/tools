@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfabritor_web=self.webpackChunkfabritor_web||[]).push([[112],{6475:function(r,e,n){n.r(e),n.d(e,{default:function(){return u}});var t=n(7776);function u(){return(0,t.tZ)("div",{children:"123"})}}}]);
